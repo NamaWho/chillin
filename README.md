@@ -3,6 +3,15 @@ The Chillin App is a mobile application that allows users to record their heart 
 monitor their stress during their daily operations. The app is designed to be used in conjunction with the Chillin 
 Wearable Device, which is a wearable device that measures heart rate and gps. The app allows users to record their data
 and view it in real-time.
+
+# Demo
+## Map Visualization
+![Heatmap View](./map.jpeg "Heatmap view")
+
+## Monitor Visualization
+Click here to see a brief video demo:
+[Monitor View](./monitor.mp4 "Monitor view")
+
 <hr>
 
 ## 1. Data sampling
